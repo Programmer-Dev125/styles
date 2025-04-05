@@ -24,6 +24,10 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
 }
+.g2 {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
 .gp-10 {
   gap: 10px;
 }
@@ -107,17 +111,42 @@ body {
   display: flex;
   flex-direction: column;
 }
-.al-center {
-  align-items: center;
-}
-.al-start {
-  align-items: start;
-}
-.jc-center {
+.sp-b {
   justify-content: space-between;
 }
-.jc-around {
+.al-c {
+  align-items: center;
+}
+.sp-a {
   justify-content: space-around;
+}
+.sp-e {
+  justify-content: space-evenly;
+}
+.al-s {
+  align-items: start;
+}
+.row-sc {
+  display: flex;
+  flex-direction: row;
+  overflow-x: scroll;
+  scrollbar-width: none;
+}
+.row-sc::-webkit-scrollbar {
+  display: none;
+}
+.ma {
+  margin-right: auto;
+  margin-left: auto;
+}
+.m10 {
+  margin: 10px;
+}
+.m15 {
+  margin: 15px;
+}
+.m20 {
+  margin: 20px;
 }
 .mt0 {
   margin-top: 0px;
@@ -365,6 +394,60 @@ body {
 .pb40 {
   padding-bottom: 40px;
 }
+.pl5 {
+  padding-left: 5px;
+}
+.pl10 {
+  padding-left: 10px;
+}
+.pl15 {
+  padding-left: 15px;
+}
+.pl20 {
+  padding-left: 20px;
+}
+.pl25 {
+  padding-left: 25px;
+}
+.pl25 {
+  padding-left: 25px;
+}
+.pl30 {
+  padding-left: 30px;
+}
+.pl35 {
+  padding-left: 35px;
+}
+.pl40 {
+  padding-left: 40px;
+}
+.pr5 {
+  padding-right: 5px;
+}
+.pr10 {
+  padding-right: 10px;
+}
+.pr15 {
+  padding-right: 15px;
+}
+.pr20 {
+  padding-right: 20px;
+}
+.pr25 {
+  padding-right: 25px;
+}
+.pr25 {
+  padding-right: 25px;
+}
+.pr30 {
+  padding-right: 30px;
+}
+.pr35 {
+  padding-right: 35px;
+}
+.pr40 {
+  padding-right: 40px;
+}
 .modal {
   position: fixed;
   top: 0;
@@ -377,4 +460,67 @@ body {
 .modal .modal-content {
   background-color: #ffffff;
   border-radius: 10px;
+}
+.wf {
+  width: fit-content;
+}
+.w5 {
+  width: 5%;
+}
+.w10 {
+  width: 10%;
+}
+.w15 {
+  width: 15%;
+}
+.w20 {
+  width: 20%;
+}
+.w25 {
+  width: 25%;
+}
+.w30 {
+  width: 30%;
+}
+.w35 {
+  width: 35%;
+}
+.w40 {
+  width: 40%;
+}
+.w45 {
+  width: 45%;
+}
+.w50 {
+  width: 50%;
+}
+.w55 {
+  width: 55%;
+}
+.w60 {
+  width: 60%;
+}
+.w65 {
+  width: 65%;
+}
+.w70 {
+  width: 70%;
+}
+.w75 {
+  width: 75%;
+}
+.w80 {
+  width: 80%;
+}
+.w85 {
+  width: 85%;
+}
+.w90 {
+  width: 90%;
+}
+.w95 {
+  width: 95%;
+}
+.w100 {
+  width: 100%;
 }
