@@ -526,3 +526,6 @@ body {
 .w100 {
   width: 100%;
 }
+.mp {
+  cursor: pointer;
+}
