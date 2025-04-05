@@ -1,0 +1,380 @@
+body {
+  margin: 0px;
+}
+.tx-14 {
+  font-size: 14px;
+}
+.tx-16 {
+  font-size: 16px;
+}
+.bl {
+  color: #000000;
+}
+.wh {
+  color: #ffffff;
+}
+.tx-24 {
+  font-size: 24px;
+}
+.g4 {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+.g3 {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+.gp-10 {
+  gap: 10px;
+}
+.gp-15 {
+  gap: 15px;
+}
+.gp-20 {
+  gap: 20px;
+}
+.gp-25 {
+  gap: 25px;
+}
+.gp-30 {
+  gap: 30px;
+}
+.gp-35 {
+  gap: 35px;
+}
+.gp-40 {
+  gap: 40px;
+}
+.gp-45 {
+  gap: 45px;
+}
+.gp-50 {
+  gap: 50px;
+}
+.gp-55 {
+  gap: 55px;
+}
+.gp-60 {
+  gap: 60px;
+}
+.gp-65 {
+  gap: 65px;
+}
+.gp-70 {
+  gap: 70px;
+}
+.gp-75 {
+  gap: 75px;
+}
+.gp-80 {
+  gap: 80px;
+}
+.gp-85 {
+  gap: 85px;
+}
+.gp-90 {
+  gap: 90px;
+}
+.gp-95 {
+  gap: 95px;
+}
+.gp-100 {
+  gap: 100px;
+}
+.gp-105 {
+  gap: 105px;
+}
+.gp-110 {
+  gap: 110px;
+}
+.gp-115 {
+  gap: 115px;
+}
+.gp-120 {
+  gap: 120px;
+}
+.gp-125 {
+  gap: 125px;
+}
+.gp-130 {
+  gap: 130px;
+}
+.row {
+  display: flex;
+  flex-direction: row;
+}
+.col {
+  display: flex;
+  flex-direction: column;
+}
+.al-center {
+  align-items: center;
+}
+.al-start {
+  align-items: start;
+}
+.jc-center {
+  justify-content: space-between;
+}
+.jc-around {
+  justify-content: space-around;
+}
+.mt0 {
+  margin-top: 0px;
+}
+.mt5 {
+  margin-top: 5px;
+}
+.mt10 {
+  margin-top: 10px;
+}
+.mt15 {
+  margin-top: 15px;
+}
+.mt20 {
+  margin-top: 20px;
+}
+.mt25 {
+  margin-top: 25px;
+}
+.mt30 {
+  margin-top: 30px;
+}
+.mt35 {
+  margin-top: 35px;
+}
+.mt40 {
+  margin-top: 40px;
+}
+.mt45 {
+  margin-top: 45px;
+}
+.mt50 {
+  margin-top: 50px;
+}
+.mt55 {
+  margin-top: 55px;
+}
+.mt60 {
+  margin-top: 60px;
+}
+.mt65 {
+  margin-top: 65px;
+}
+.mt70 {
+  margin-top: 70px;
+}
+.mt75 {
+  margin-top: 75px;
+}
+.mt80 {
+  margin-top: 80px;
+}
+.mt85 {
+  margin-top: 85px;
+}
+.mt90 {
+  margin-top: 90px;
+}
+.mt95 {
+  margin-top: 95px;
+}
+.mt100 {
+  margin-top: 100px;
+}
+.mb0 {
+  margin-bottom: 0px;
+}
+.mb5 {
+  margin-bottom: 5px;
+}
+.mb10 {
+  margin-bottom: 10px;
+}
+.mb15 {
+  margin-bottom: 15px;
+}
+.mb20 {
+  margin-bottom: 20px;
+}
+.mb25 {
+  margin-bottom: 25px;
+}
+.mb30 {
+  margin-bottom: 30px;
+}
+.mb35 {
+  margin-bottom: 35px;
+}
+.mb40 {
+  margin-bottom: 40px;
+}
+.mb45 {
+  margin-bottom: 45px;
+}
+.mb50 {
+  margin-bottom: 50px;
+}
+.mb55 {
+  margin-bottom: 55px;
+}
+.mb60 {
+  margin-bottom: 60px;
+}
+.mb65 {
+  margin-bottom: 65px;
+}
+.mb70 {
+  margin-bottom: 70px;
+}
+.mb75 {
+  margin-bottom: 75px;
+}
+.mb80 {
+  margin-bottom: 80px;
+}
+.mb85 {
+  margin-bottom: 85px;
+}
+.mb90 {
+  margin-bottom: 90px;
+}
+.mb95 {
+  margin-bottom: 95px;
+}
+.mb100 {
+  margin-bottom: 100px;
+}
+.mr0 {
+  margin-right: 0px;
+}
+.mr5 {
+  margin-right: 5px;
+}
+.mr10 {
+  margin-right: 10px;
+}
+.mr15 {
+  margin-right: 15px;
+}
+.mr20 {
+  margin-right: 20px;
+}
+.mr25 {
+  margin-right: 25px;
+}
+.mr30 {
+  margin-right: 30px;
+}
+.mr35 {
+  margin-right: 35px;
+}
+.mr40 {
+  margin-right: 40px;
+}
+.ml0 {
+  margin-left: 0px;
+}
+.ml5 {
+  margin-left: 5px;
+}
+.ml10 {
+  margin-left: 10px;
+}
+.ml15 {
+  margin-left: 15px;
+}
+.ml20 {
+  margin-left: 20px;
+}
+.ml25 {
+  margin-left: 25px;
+}
+.ml30 {
+  margin-left: 30px;
+}
+.ml35 {
+  margin-left: 35px;
+}
+.ml40 {
+  margin-left: 40px;
+}
+.p5 {
+  padding: 5px;
+}
+.p10 {
+  padding: 10px;
+}
+.p15 {
+  padding: 15px;
+}
+.p20 {
+  padding: 20px;
+}
+.pt5 {
+  padding-top: 5px;
+}
+.pt10 {
+  padding-top: 10px;
+}
+.pt15 {
+  padding-top: 15px;
+}
+.pt20 {
+  padding-top: 20px;
+}
+.pt25 {
+  padding-top: 25px;
+}
+.pt25 {
+  padding-top: 25px;
+}
+.pt30 {
+  padding-top: 30px;
+}
+.pt35 {
+  padding-top: 35px;
+}
+.pt40 {
+  padding-top: 40px;
+}
+.pb5 {
+  padding-bottom: 5px;
+}
+.pb10 {
+  padding-bottom: 10px;
+}
+.pb15 {
+  padding-bottom: 15px;
+}
+.pb20 {
+  padding-bottom: 20px;
+}
+.pb25 {
+  padding-bottom: 25px;
+}
+.pb25 {
+  padding-bottom: 25px;
+}
+.pb30 {
+  padding-bottom: 30px;
+}
+.pb35 {
+  padding-bottom: 35px;
+}
+.pb40 {
+  padding-bottom: 40px;
+}
+.modal {
+  position: fixed;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.modal .modal-content {
+  background-color: #ffffff;
+  border-radius: 10px;
+}
