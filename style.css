@@ -16,6 +16,15 @@ body {
 .tx-24 {
   font-size: 24px;
 }
+.tx-c {
+  text-align: center;
+}
+.tx-a {
+  text-align: start;
+}
+.tx-e {
+  text-align: end;
+}
 .g4 {
   display: grid;
   grid-template-columns: repeat(4, 1fr);
