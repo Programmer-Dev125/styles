@@ -141,6 +141,9 @@ body {
 .al-s {
   align-items: start;
 }
+.tx-center {
+  text-align: center;
+}
 .row-sc {
   display: flex;
   flex-direction: row;
