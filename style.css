@@ -481,6 +481,7 @@ body {
 .modal .modal-content {
   background-color: #ffffff;
   border-radius: 10px;
+  z-index: 100;
 }
 .wf {
   width: fit-content;
